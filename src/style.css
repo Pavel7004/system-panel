@@ -1,0 +1,20 @@
+.separator {
+    min-height: 0.2em;
+    padding: 0 .3em;
+}
+
+.separator .dot {
+    min-height: .15em;
+    min-width: .15em;
+    border-radius: 13px;
+    background-color: #eee;
+}
+
+.power {
+    padding-bottom: 0.4em;
+    padding-top: 0.4em;
+}
+
+.workspace_button:disabled {
+    background-color: #eee;
+}
