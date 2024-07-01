@@ -1,5 +1,5 @@
 [package]
-name = "system-panel-rs"
+name = "system-panel"
 version = "0.1.0"
 edition = "2021"
 
